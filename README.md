@@ -5,6 +5,9 @@ MyDSAJourney Parallax Website ⭐💻 <br>
 ## 👨‍💻 Tech Stack Used
 <li>HTML</li>
 <li>CSS</li>
+<br>
+
+<b>Link: https://dsajourneyofprincesingh.netlify.app/</b>
 
 
 # 🎥 Video of the Website
